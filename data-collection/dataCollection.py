@@ -11,7 +11,7 @@ offset = 20
 imgSize = 350  # Fixed size for the output images
 
 # Folder to save images
-folder = "Data/Z"
+folder = "./Data/Hello"
 if not os.path.exists(folder):
     os.makedirs(folder)
 
